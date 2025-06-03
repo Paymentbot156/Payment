@@ -11,7 +11,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot token
-TOKEN = "7609629344:AAH-Mem-2bzv94yDyWfZGxQc5JxmRrB2xAc"
+TOKEN = "8177620873:AAFR0JqVV7Zc85uEgt0eh9TNOa84fSF5RoQ"
 ADMIN_ID = 5670958127
 
 # ID Stocks
